@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Locker（feat. G-k.i.d、Tiji Jojo、YZERR）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-08T12:04:58.429164Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Locker (feat. G-k.i.d, Tiji Jojo & YZERR)",
+      "artist": "BAD HOP, G-k.i.d, Tiji Jojo, YZERR",
+      "has_synced": false,
+      "path": "select/pl_01_Locker_(feat._G-k.i.d,_Tiji_Jojo_&_YZERR)_BAD_HOP,_G-k.i.d,_Tiji_Jojo,_YZERR.txt"
+    }
+  ]
+}
